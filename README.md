@@ -12,6 +12,8 @@
 
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python, PyTorch and PIL.  The code should run with no issues using Python versions 3.\*, PyTorch, PIL.
 
+You can run jupyter notebook to see the entire model build process, or you can run python scripts to directly train and use the model to recognize the flower image.
+
 ## Project Motivation<a name="motivation"></a>
 
 This project is from Udacity's image classification project. It trains CNN model to classify picturesof flowers.
